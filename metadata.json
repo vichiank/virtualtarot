@@ -1,0 +1,11 @@
+{
+  "name": "VirtualTarot",
+  "description": "แพลตฟอร์มดูดวงไพ่ยิปซีล้ำสมัยที่Localized สำหรับผู้ใช้งานชาวไทย พร้อมดวงประจำวัน เลขมงคล และการวิเคราะห์เจาะลึกผ่าน AI ในสไตล์อาจารย์โหราศาสตร์",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "AI Interpretation",
+    "Animated Card Shuffling",
+    "Daily Tarot Draw",
+    "Reading History"
+  ]
+}
